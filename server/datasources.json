@@ -1,0 +1,12 @@
+{
+  "elephantsql": {
+    "host": "elmer.db.elephantsql.com",
+    "port": 5432,
+    "url": "postgres://vbuscdpj:FULxM7dqpQFD_mnCwfJOLH2Yw7gUlK7D@elmer.db.elephantsql.com:5432/vbuscdpj",
+    "database": "vbuscdpj",
+    "password": "\tFULxM7dqpQFD_mnCwfJOLH2Yw7gUlK7D",
+    "name": "elephantsql",
+    "user": "vbuscdpj",
+    "connector": "postgresql"
+  }
+}
