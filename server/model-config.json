@@ -16,5 +16,17 @@
   "users": {
     "dataSource": "elephantsql",
     "public": true
+  },
+  "toys": {
+    "dataSource": "elephantsql",
+    "public": true
+  },
+  "food": {
+    "dataSource": "elephantsql",
+    "public": true
+  },
+  "clothes": {
+    "dataSource": "elephantsql",
+    "public": true
   }
 }
